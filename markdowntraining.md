@@ -31,29 +31,31 @@ As exampled below:
 
 Each of your listed subjects has to be preceded by a "-" character
 
- -Watermelons
- -Apples
- -Bananas
+ 
+- Fruits
+- Inside 
+- a text
+- for listing purposes
 
 
 A nested list (Subtopics of the listed subjects) is made with an indentation before inserting "-" in your subtopic.
 
- -Watermelons
+-Watermelons
   -Are watery
- -Apples
+-Apples
   -Are acidic
- -Bananas
+-Bananas
   -Not my favorites
 
 ### *Ordered (numbered) lists*
 
 Each of your listed subjects has to be preceded by a "1." later it will be converted automatically to a ordered numeration.
 
- 1.Watermelons
+1.Watermelons
   1.cute
- 1.Apples
+1.Apples
   1.not the brand
- 1.Bananas
+1.Bananas
   1.should not be in the list
 
 ## **Inserting tables**  
