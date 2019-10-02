@@ -24,7 +24,7 @@ As exampled below:
 
 
 ### *Bulleted lists*
-####Each of your listed subjects has to be preceded by a "-" character
+Each of your listed subjects has to be preceded by a "-" character
 
 -Watermelons
 -Apples
