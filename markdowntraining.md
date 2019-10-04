@@ -104,7 +104,7 @@ Simple tables can be created using pipes (|) for separating each column while hy
 
 ## **Inserting images**
 
- ! [image test [Watermelon] (/home/tatiane/Documents/tutorialgithub/Tati/img/Watermelon.jpg "These are watermelons")]
+ ! [image test [Watermelon] (img/apples.jpg "These are watermelons")]
 
  ! [image test [Apples] (/home/tatiane/Documents/tutorialgithub/Tati/img/Apples.jpg "These are apples")]
 
