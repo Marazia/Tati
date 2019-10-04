@@ -1,4 +1,4 @@
 # Tati
-My first repository
-Altering linux.md
-Creating "writing" with markdown language.
+Main objectives for week 2:
+  1.Altering linux.md on ccbl_tutorials
+  1.Learning more about Markdown and html
