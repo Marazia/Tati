@@ -60,11 +60,23 @@ Each of your listed subjects has to be preceded by a "1." later it will be conve
    1. Sub-instruction
    1. Sub-instruction
 1. Second instruction
+1. Watermelons
+   1. *Citrulus ianatus*
+   1. Originated in the African continent
+   1. Rich in Potassium 
+1. Apples
+   1. *Malus domestica*
+   1. Originated in eastern Asia
+   1. Rich in Potassium
+1. Bananas
+   1. *Musa* spp.
+   1. Originated in southwestern Asia
+   1  Rich in Potassium
 
  
 ## **Blockquotes**  
 
-In markdown we use e-mail style > characters to generate a blockquote, similar as in listing, inserting a > character below a blockquote will nest another into that blockquote.
+In markdown we use e-mail style > characters to generate a blockquote, similar as in listing, inserting a > character below a blockquote will nest another into that blockquote.You must include a blank line before your blockquote to render it correctly
 
   > This is how a blockquote looks like 
   >ashauidhudiuahduhiuhdidhuduahuhduashduhsdudaiuh
@@ -75,6 +87,14 @@ In markdown we use e-mail style > characters to generate a blockquote, similar a
   > 
   >
 
+  >1256 
+  >1299
+  >>25680
+  >>>157
+  >1265787
+  >145959
+  >487878
+  >>454577
 --------------------------------------------------------------------------
 
 ## **Tables**
@@ -95,9 +115,7 @@ Simple tables can be created using pipes (|) for separating each column while hy
 
 ## **Inserting images**
 
-
- ![Watermelon](img/watermelon.jpg "These are watermelons")
-
+ ![Watermelon](img/watermelon.jpg "These are apples")
 
 --------------------------------------------------------------------------
 
