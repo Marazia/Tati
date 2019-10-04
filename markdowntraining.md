@@ -56,19 +56,18 @@ A nested list (Subtopics of the listed subjects) is made with an indentation bef
 
 Each of your listed subjects has to be preceded by a "1." later it will be converted automatically to a ordered numeration.
 
- 1. Watermelons
+1. Watermelons
 
-  1. *Citrulus ianatus*
-  1.  Originated in the African continent
-  1.  Rich in Potassium 
+ 1. *Citrulus ianatus*
+ 1.  Originated in the African continent
+ 1.  Rich in Potassium 
 
- 1. Apples
+1. Apples
+ 1. *Malus domestica*
+ 1.  Originated in eastern Asia
+ 1.  Rich in Potassium
 
-  1. *Malus domestica*
-  1.  Originated in eastern Asia
-  1.  Rich in Potassium
-
- 1. Bananas
+1. Bananas
 
   1.  *Musa* spp.
   1.   Originated in southwestern Asia
@@ -79,13 +78,16 @@ Each of your listed subjects has to be preceded by a "1." later it will be conve
 
 In markdown we use e-mail style > characters to generate a blockquote, similar as in listing, inserting a > character below a blockquote will nest another into that blockquote.
 
-  > This is how a blockquote looks like
-  >                 > This is how a nested blockquote looks like
-  
-  > This is a second longer blockquote or the same blockquote as before,
+  > This is how a blockquote looks like 
+  >ashauidhudiuahduhiuhdidhuduahuhduashduhsdudaiuh
+  >ashauidhudiuahduhiuhdidhuduahuhduashduhsdudaiuh
+     >This is how a nested blockquote looks like 
+     >ashauidhudiuahduhiuhdidhuduahuhduashduhsdudaiuh
+     >ashauidhudiuahduhiuhdidhuduahuhduashduhsdudaiuh
+  > 
+  >
 
-  >I think I'm writing the same word for tooo loooong, I have a chemistry test today 
-
+--------------------------------------------------------------------------
 
 ## **Tables**
 
@@ -100,19 +102,24 @@ Simple tables can be created using pipes (|) for separating each column while hy
  |   Biology   |          B+          |          A+           |      A      |
 
 
+--------------------------------------------------------------------------
 
 
 ## **Inserting images**
 
-<<<<<<< HEAD
- ![Watermelon] (/home/tatiane/Documents/tutorialgithub/Tati/img/Watermelon.jpg "These are watermelons")
- ![Apples] (/home/tatiane/Documents/tutorialgithub/Tati/img/Apples.jpg "These are apples")
-=======
- ! [image test [Watermelon] (img/apples.jpg "These are watermelons")]
->>>>>>> 2599ca83394532e1d8f7e6ff611dd5ef177d5035
 
- ![Bananas] (/home/tatiane/Documents/tutorialgithub/Tati/img/Bananas.jpeg "These are bananas")
+![Watermelon](img/Watermelon.jpg "These are watermelons")
 
+--------------------------------------------------------------------------
+
+![Apples](img/Apples.jpg "These are apples")
+--------------------------------------------------------------------------
+
+
+![Bananas](img/Bananas.jpeg "These are bananas")
+
+
+--------------------------------------------------------------------------
 
 ## **Note blocks**
 
