@@ -104,8 +104,12 @@ Simple tables can be created using pipes (|) for separating each column while hy
 
 ## **Inserting images**
 
+<<<<<<< HEAD
  ![Watermelon] (/home/tatiane/Documents/tutorialgithub/Tati/img/Watermelon.jpg "These are watermelons")
  ![Apples] (/home/tatiane/Documents/tutorialgithub/Tati/img/Apples.jpg "These are apples")
+=======
+ ! [image test [Watermelon] (img/apples.jpg "These are watermelons")]
+>>>>>>> 2599ca83394532e1d8f7e6ff611dd5ef177d5035
 
  ![Bananas] (/home/tatiane/Documents/tutorialgithub/Tati/img/Bananas.jpeg "These are bananas")
 
