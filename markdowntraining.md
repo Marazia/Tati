@@ -91,10 +91,7 @@ In markdown we use e-mail style > characters to generate a blockquote, similar a
   >1299
   >>25680
   >>>157
-  >1265787
-  >145959
-  >487878
-  >>454577
+
 --------------------------------------------------------------------------
 
 ## **Tables**
@@ -115,10 +112,10 @@ Simple tables can be created using pipes (|) for separating each column while hy
 
 ## **Inserting images**
 
- ![Watermelon](img/watermelon.jpg "These are apples")
+
 
 --------------------------------------------------------------------------
-
+ ![Watermelon](img/watermelon.jpeg "These are watermelons")
  ![Apples](img/apples.jpg "These are apples")
 --------------------------------------------------------------------------
 
