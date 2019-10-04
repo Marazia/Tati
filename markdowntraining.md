@@ -58,16 +58,16 @@ Each of your listed subjects has to be preceded by a "1." later it will be conve
 
 1. Watermelons
   1. *Citrulus ianatus*
-  1. Originated in the African continent
-  1. Rich in Potassium 
+  1.  Originated in the African continent
+  1.  Rich in Potassium 
 1. Apples
   1. *Malus domestica*
-  1. Originated in eastern Asia
-  1. Rich in Potassium
+  1.  Originated in eastern Asia
+  1.  Rich in Potassium
 1. Bananas
-  - *Musa* spp.
-  - Originated in southwestern Asia
-  - Rich in Potassium
+  1.  *Musa* spp.
+  1.   Originated in southwestern Asia
+  1.   Rich in Potassium
 
  
 ## **Blockquotes**  
@@ -98,15 +98,17 @@ Simple tables can be created using pipes (|) for separating each column while hy
 
 ## **Inserting images**
 
- ![image test [Watermelon] (/home/tatiane/Documents/tutorialgithub/Tati/img/Watermelon.jpg "These are watermelons")
+ ![image test [Watermelon] (/home/tatiane/Documents/tutorialgithub/Tati/img/Watermelon.jpg "These are watermelons")]
 
- ![image test [Apples] (/home/tatiane/Documents/tutorialgithub/Tati/img/Apples.jpg "These are apples")
+ ![image test [Apples] (/home/tatiane/Documents/tutorialgithub/Tati/img/Apples.jpg "These are apples")]
 
- ![image test [Bananas] (/home/tatiane/Documents/tutorialgithub/Tati/img/Bananas.jpeg "These are bananas")
+ ![image test [Bananas] (/home/tatiane/Documents/tutorialgithub/Tati/img/Bananas.jpeg "These are bananas")]
 
 
 ## **Note blocks**
- Test if noteblocks render properly on this training
+ Test if noteblocks render properly on this training it seems it doesn't?
+
+
 > [!NOTE]
 > This is a NOTE
 
