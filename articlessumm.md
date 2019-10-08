@@ -2,6 +2,8 @@
 # Articles Summary
 
 ## PICRUSt2 
+ The PICRUSt2 method now consists of phylogenetic placement, hidden-state-prediction, and sample-wise gene abundance tabulation. ASV sequences and abundances
+are taken as input, and stratified gene family and pathway abundances are output.
 
 
 ## 16s RNA
