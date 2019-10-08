@@ -19,3 +19,5 @@ Importantly, these methods predict potential functions encoded at the level of D
 They enable sequence resolution down to the single-nucleotide level. This improved resolution allows closely
 related organisms to be better distinguished and thus more precise gene annotations are
 associated with a given 16S sequence.
+
+## Shotgun analysis
