@@ -125,9 +125,18 @@ Simple tables can be created using pipes (|) for separating each column while hy
 
 --------------------------------------------------------------------------
 
-## **Note blocks**
+## **Code inclusions**
 
+When you want to highlight code instructions or inline commands, it can be included with three \` characters before and after your code imput.
 
+```mkdir exampledirectory``` inline command 
+
+```mkdir exampledirectory
+   cd exampledirectory
+   touch exampletextarchive.md
+   mousepad exampletextarchive.md
+``` 
+   Block type code inclusion
 
 
 
