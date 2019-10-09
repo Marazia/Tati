@@ -69,6 +69,13 @@ an abundance table of counts representing the number of sequences persample for 
       - multivariate 
       - univariate
 
+Normalization
+
+Diversity analysis
+The diversity of the microbiome is an important indicator of the
+good or bad conditions of the ecosystem, with larger microbiome
+diversity being usually associated to better health status
+
 ##Skin conditions related to the microbiome 
 Chronic inflammatory skin conditions such as psoriasis, atopic dermatitis, acne
 and chronic skin ulcers have been associated to cutaneous microbiome changes.
