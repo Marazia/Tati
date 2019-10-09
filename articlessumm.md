@@ -47,14 +47,14 @@ A typical shotgun metagenomics study comprises five steps, after the initial stu
   1.  statistical and biological post-processing analysis, and;
   1.  validation
 
-##Results on microbiome abundance vs microbiome function
+## Results on microbiome abundance vs microbiome function
  BIOINFORMATIC PIPELINE : 
  Preprocessing and quality control filtering, operational taxonomic unit (OTU) binningOTUs, that is, groups of DNA se-
 quences with at least 97% similarity, tax-
 onomy assignment, construction of the abundance table and phy-
 logenetic analysis.
 
-##Statistical analysis
+## Statistical analysis
 
 R language, Bioconductor
 
