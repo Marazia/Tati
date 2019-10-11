@@ -2,19 +2,23 @@
 # Articles Summary
 
 ## PICRUSt2 
- PICRUSt2 relies on a new algorithm that leverages recently developed short-read placement tools that insert sequences into an existing phylogenetic tree,predicting gene family relative abundances as well as gene family presence and absence.
+ PICRUSt2 relies on a new algorithm that insert sequences into an existing phylogenetic tree,predicting gene family relative abundances as well as gene family presence and absence.
  The PICRUSt2 method now consists of phylogenetic placement, hidden-state-prediction, and sample-wise gene abundance tabulation. ASV sequences and abundances are taken as input, and stratified gene family and pathway abundances are output. 
   PICRUSt2 integrates multiple high-throughput, open-source tools to predict the genomes of
 environmentally sampled 16S amplicon sequences. Amplicon sequence variants (ASVs) are
 placed into a reference tree, which is used as the basis of functional predictions. This reference
 tree contains 20,000 full 16S sequences from prokaryotic genomes from the Integrated Microbial
-Genomes database
+Genomes database:
   The result is a phylogenetic tree containing both reference genomes and
 environmentally sampled organisms, which is used to predict individual gene family copy
 numbers for each ASV. Since this procedure is re-run for each input dataset, users can specify
 custom reference databases with improved resolution for specific environments
  The new PICRUSt2 default genome database is based on 41,926 bacterial and archaeal genomes
-from the Integrated Microbial Genomes (IMG) database
+from the Integrated Microbial Genomes (IMG) database.
+ PICRUSt2 predictions based on the following gene families are supported by default: Kyoto
+Encyclopedia of Genes and Genomes 19 (KEGG) orthologs (KO), Enzyme Classification numbers
+(EC numbers), Clusters of Orthologous Genes 20 (COGs), Protein families 21 (Pfam) and The
+Institute for Genomic Research’s database of protein FAMilies 22 (TIGRFAM).
 
 ## 16s RNA
  The most common approach for profiling communities is to sequence the highly conserved 16S rRNA
