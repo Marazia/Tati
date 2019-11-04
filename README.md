@@ -1,9 +1,8 @@
 # Tati
 
-## Main objectives for week 4 starts on 21/10/2019  :
+## Main objectives for week 6 starts on 04/11/2019  :
 
-   1. Taking the course classes
+   1. Finishing course
    1  Writing my exercise notebooks
-   1. Learning more about Markdown and html
    1. Include suggestions on the formulary
 
