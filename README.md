@@ -1,8 +1,9 @@
 # Tati
 
-## Main objectives for week 6 starts on 04/11/2019  :
+## Main objectives for week 7 starts on 11/11/2019  :
 
-   1. Finishing course
-   1  Writing my exercise notebooks
-   1. Include suggestions on the formulary
+   1. Install quiime, miniconda
+   1  Do the tutorials
+   1. Document the procedures in the slides
+   1. Finish my notebooks.
 
